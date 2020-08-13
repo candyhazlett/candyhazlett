@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my [portfolio site](https://fierce-springs-79146.herokuapp.com/)
+- 🔭 I’m currently working on my [Portfolio](https://fierce-springs-79146.herokuapp.com/)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
