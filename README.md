@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my portfolio
-  - [Check out my work here](https://fierce-springs-79146.herokuapp.com/)
+  - Check out my work [here.](https://fierce-springs-79146.herokuapp.com/)
 
 
 - 🌱 I’m currently learning React
