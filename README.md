@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Candace 👋
 
 - 🔭 I’m currently working on my portfolio
   - Check out my work [here.](https://fierce-springs-79146.herokuapp.com/)
