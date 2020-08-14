@@ -1,21 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my [Portfolio](https://fierce-springs-79146.herokuapp.com/)
+- 🔭 I’m currently working on my portfolio
+  - [Check out my work here](https://fierce-springs-79146.herokuapp.com/)
 
 
 - 🌱 I’m currently learning React
 
 
-- 👯 I’m looking to collaborate on ...
-
-
-- 🤔 I’m looking for help with ...
-
-
-- 💬 Ask me about ...
-
-
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+  - [email](candace.hazlett@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/candacehazlett/)
 
 
 - ⚡ Fun fact: ...
