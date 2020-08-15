@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning React.
 
 
-- 📫 How to reach me:
-  - [email](candace.hazlett@gmail.com)
+- 📫 Where to find me:
+  - [Twitter](https://twitter.com/CCCodeWrangler)
   - [LinkedIn](https://www.linkedin.com/in/candacehazlett/)
 
 ---
