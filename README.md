@@ -15,3 +15,4 @@
 - ⚡ **Fun fact**:
 
     ![vote2020](https://media.giphy.com/media/ZeKYWDAvROV3BGwCXR/giphy.gif)
+    - Not registered? Get registered [here](https://register.rockthevote.com)
