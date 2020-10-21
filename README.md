@@ -1,6 +1,8 @@
 ### Hi there, I'm Candace 👋
 
-- 🔭 I’m currently working on my portfolio. Check it out [**here**.](https://fierce-springs-79146.herokuapp.com/)
+- 🔭 Currently working on:
+  - my [**portfolio**](https://fierce-springs-79146.herokuapp.com/)
+  - a Rails app and database for the [Civil Rights Restorative Justice project](https://crrj.northeastern.edu/) at Northeastern University.
 
 
 - 🌱 I’m currently learning React.
