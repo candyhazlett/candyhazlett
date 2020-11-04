@@ -16,5 +16,4 @@
 
 - ⚡ **Fun fact**:
 
-    ![vote2020](https://media.giphy.com/media/ZeKYWDAvROV3BGwCXR/giphy.gif)
-    - Not registered? Get registered [here](https://register.rockthevote.com)
+    ![USA 2020](https://media.giphy.com/media/KqYHMNJx0iuLoc08q1/giphy.gif)
