@@ -17,3 +17,4 @@
 - ⚡ **Fun fact**:
 
     ![USA 2020](https://media.giphy.com/media/KqYHMNJx0iuLoc08q1/giphy.gif)
+    ![Now](https://media.giphy.com/media/XDSBGwnjvTpoZGJhxY/giphy.gif)
