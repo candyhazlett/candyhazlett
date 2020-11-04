@@ -15,5 +15,7 @@
 ---
 
 - ⚡ **Fun fact**:
-    ![Now](https://media.giphy.com/media/XDSBGwnjvTpoZGJhxY/giphy.gif)
+
+    ![](https://media.giphy.com/media/L431UNLuEEKQYr4mmz/giphy.gif)
+    ![](https://media.giphy.com/media/XDSBGwnjvTpoZGJhxY/giphy.gif)
    
