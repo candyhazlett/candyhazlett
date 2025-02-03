@@ -9,5 +9,4 @@
 
 
 - 📫 Where to find me:
-  - [Twitter](https://twitter.com/CCCodeWrangler)
   - [LinkedIn](https://www.linkedin.com/in/candacehazlett/)
